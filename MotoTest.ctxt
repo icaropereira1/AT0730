@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MotoTest
+comment0.text=\r\n\ A\ classe\ de\ teste\ MotoTest.\r\n\r\n\ @author\ \ Icaro\ Pereira\ \r\n
+comment1.params=
+comment1.target=void\ getPlaca()
+comment2.params=
+comment2.target=void\ getModelo()
+comment3.params=
+comment3.target=void\ getCor()
+comment4.params=
+comment4.target=void\ getTarifaPorMinuto()
+numComments=5
